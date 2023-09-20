@@ -1,0 +1,19 @@
+﻿  DynamicArray.cpp
+  Лабораторна3АСД.cpp
+C:\Users\MSI Katana\Desktop\Навчання\Алгоритми та структури даних\Лабораторні\Семестр 2\Лабораторна 3\Код 3\Лабораторна3АСД\Лабораторна3АСД.cpp(119,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\MSI Katana\Desktop\Навчання\Алгоритми та структури даних\Лабораторні\Семестр 2\Лабораторна 3\Код 3\Лабораторна3АСД\Лабораторна3АСД.cpp(147,44): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\MSI Katana\Desktop\Навчання\Алгоритми та структури даних\Лабораторні\Семестр 2\Лабораторна 3\Код 3\Лабораторна3АСД\Лабораторна3АСД.cpp(186,20): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\MSI Katana\Desktop\Навчання\Алгоритми та структури даних\Лабораторні\Семестр 2\Лабораторна 3\Код 3\Лабораторна3АСД\Лабораторна3АСД.cpp(209,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\MSI Katana\Desktop\Навчання\Алгоритми та структури даних\Лабораторні\Семестр 2\Лабораторна 3\Код 3\Лабораторна3АСД\Лабораторна3АСД.cpp(110,26): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+C:\Users\MSI Katana\Desktop\Навчання\Алгоритми та структури даних\Лабораторні\Семестр 2\Лабораторна 3\Код 3\Лабораторна3АСД\Лабораторна3АСД.cpp(149): message : выполняется компиляция ссылки на экземпляр шаблон функции "float testPriorityQueueSpeed<std::priority_queue<Data,std::vector<Data,std::allocator<Data>>,std::less<_Ty>>>(T &&)"
+          with
+          [
+              _Ty=Data,
+              T=std::priority_queue<Data,std::vector<Data,std::allocator<Data>>,std::less<Data>>
+          ]
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\MSI Katana\Desktop\Навчання\Алгоритми та структури даних\Лабораторні\Семестр 2\Лабораторна 3\Код 3\Лабораторна3АСД\Лабораторна3АСД.cpp(68): warning C4715: PriorityQueue::top: значение возвращается не при всех путях выполнения
+  All 177 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Лабораторна3АСД.vcxproj -> C:\Users\MSI Katana\Desktop\Навчання\Алгоритми та структури даних\Лабораторні\Семестр 2\Лабораторна 3\Код 3\x64\Release\Лабораторна3АСД.exe
